@@ -1,0 +1,132 @@
+[
+    {
+        "name": "John Doe",
+        "age": 20,
+        "marks": 85,
+        "avgMarks": 80,
+        "rollNumber": "A102",
+        "class": "10th Grade",
+        "city": "New York",
+        "attendance": "95%"
+    },
+    {
+        "name": "Jane Smith",
+        "age": 19,
+        "marks": 78,
+        "avgMarks": 74,
+        "rollNumber": "B203",
+        "class": "10th Grade",
+        "city": "Los Angeles",
+        "attendance": "89%"
+    },
+    {
+        "name": "Michael Johnson",
+        "age": 21,
+        "marks": 92,
+        "avgMarks": 88,
+        "rollNumber": "C304",
+        "class": "11th Grade",
+        "city": "Chicago",
+        "attendance": "97%"
+    },
+    {
+        "name": "Emily Davis",
+        "age": 18,
+        "marks": 76,
+        "avgMarks": 72,
+        "rollNumber": "D405",
+        "class": "12th Grade",
+        "city": "Houston",
+        "attendance": "85%"
+    },
+    {
+        "name": "David Wilson",
+        "age": 22,
+        "marks": 88,
+        "avgMarks": 84,
+        "rollNumber": "E506",
+        "class": "12th Grade",
+        "city": "Phoenix",
+        "attendance": "93%"
+    },
+    {
+        "name": "John Doe",
+        "age": 20,
+        "marks": 85,
+        "avgMarks": 80,
+        "rollNumber": "A102",
+        "class": "10th Grade",
+        "city": "New York",
+        "attendance": "95%"
+    },
+    {
+        "name": "Jane Smith",
+        "age": 19,
+        "marks": 78,
+        "avgMarks": 74,
+        "rollNumber": "B203",
+        "class": "10th Grade",
+        "city": "Los Angeles",
+        "attendance": "89%"
+    },
+    {
+        "name": "Michael Johnson",
+        "age": 21,
+        "marks": 92,
+        "avgMarks": 88,
+        "rollNumber": "C304",
+        "class": "11th Grade",
+        "city": "Chicago",
+        "attendance": "97%"
+    },
+    {
+        "name": "Emily Davis",
+        "age": 18,
+        "marks": 76,
+        "avgMarks": 72,
+        "rollNumber": "D405",
+        "class": "12th Grade",
+        "city": "Houston",
+        "attendance": "85%"
+    },
+    {
+        "name": "David Wilson",
+        "age": 22,
+        "marks": 88,
+        "avgMarks": 84,
+        "rollNumber": "E506",
+        "class": "12th Grade",
+        "city": "Phoenix",
+        "attendance": "93%"
+    },
+        {
+            "name": "Michael Johnson",
+            "age": 21,
+            "marks": 92,
+            "avgMarks": 88,
+            "rollNumber": "C304",
+            "class": "11th Grade",
+            "city": "Chicago",
+            "attendance": "97%"
+        },
+        {
+            "name": "Emily Davis",
+            "age": 18,
+            "marks": 76,
+            "avgMarks": 72,
+            "rollNumber": "D405",
+            "class": "12th Grade",
+            "city": "Houston",
+            "attendance": "85%"
+        },
+        {
+            "name": "David Wilson",
+            "age": 22,
+            "marks": 88,
+            "avgMarks": 84,
+            "rollNumber": "E506",
+            "class": "12th Grade",
+            "city": "Phoenix",
+            "attendance": "93%"
+        }
+]
